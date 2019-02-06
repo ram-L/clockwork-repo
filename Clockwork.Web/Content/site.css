@@ -1,0 +1,69 @@
+﻿@media (min-width: 768px) {
+    input,
+    select,
+    textarea {
+        max-width: 380px;
+    }
+
+    button {
+        max-width: 320px;
+    }
+}
+
+body {
+    font-size: 13px;
+    background-color: #fbeaeb;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 10px auto;
+}
+
+.header {
+    overflow: hidden;
+    background-color: #3c1a5b;
+    padding: 20px 10px;
+    color: #fff748;
+}
+
+.clockwork-control {
+    padding: 5px;
+    margin: 5px;
+}
+
+table th {
+    background-color: #292826;
+    color: #f9d342;
+}
+
+.dataTables_paginate .page-link {
+    color: #4a274f !important;
+}
+
+.footer {
+    line-height: 30px;
+    margin-top: 20px;
+    border-top: 1px inset #1d1b1b;
+    color: #66615b;
+    padding: 10px 15px;
+    font-size: 14px;
+    white-space: nowrap;
+    margin: 15px 3px;
+    line-height: 20px;
+    text-align: center;
+}   
+
+.modal-header {
+    background-color: #243665;
+    color: #fff;
+}
+
+.modal-body {
+    background-color: #fbeaeb;
+    color: #000;
+}
+
+.blank-space {
+    margin-top: 20px;
+}
